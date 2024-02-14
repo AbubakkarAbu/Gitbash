@@ -1,0 +1,2 @@
+open git bash
+git clone ____link_____
