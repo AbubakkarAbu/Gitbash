@@ -1,2 +1,7 @@
 open git bash
 git clone ____link_____
+move to vs code
+git init
+git add .
+git commit -a "Initial change"
+git push orgin main
