@@ -5,3 +5,6 @@ git init
 git add .
 git commit -a "Initial change"
 git push orgin main
+or
+git push
+
